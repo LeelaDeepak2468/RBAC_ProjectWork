@@ -1,0 +1,39 @@
+/*  edit role*/
+.form-container {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+ 
+  /* .form-container {
+    max-width: 500px;
+    margin: auto;
+  }
+   */
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 1px; /* Add spacing between rows */
+  }
+  
+  .checkbox-item {
+    display: flex;
+    align-items: center; /* Vertically center align */
+  }
+  
+  .checkbox-item label {
+     margin-right: 250px; /* Add some spacing between the checkbox and the label  */
+  }
+  
+  .checkbox-item input {
+     margin: 0; /*Remove default margin on checkbox */
+  }
+  
