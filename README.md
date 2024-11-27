@@ -113,6 +113,7 @@ Once both the JSON Server and the frontend are running, you can access the Role 
 - Click on a role to edit.
 - Update the permissions.
 - Click Save Changes.
+
 **Delete a Role**
 - Navigate to the Roles section.
 - Click the Delete button next to the role you want to remove.
