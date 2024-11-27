@@ -105,9 +105,11 @@ Once both the JSON Server and the frontend are running, you can access the Role 
 - Click **Add User**.
 - Enter a name, **select a role**, and set the user status.
 - Click **Add Use** to create the user.
+  
 **Delete a User**
 - Navigate to the **Users** Section
 - Click the Delete button next to the **User** you want to remove.
+  
 **Edit a Role**
 - Navigate to the Roles section.
 - Click on a role to edit.
